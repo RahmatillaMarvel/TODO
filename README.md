@@ -44,4 +44,3 @@ If you'd like to contribute to the project, feel free to submit pull requests or
 ## Author
 
 - Rahmatilla Xudoyberdiyev
-``` ````
